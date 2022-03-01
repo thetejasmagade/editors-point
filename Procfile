@@ -1,1 +1,1 @@
-web: gunicorn editorspoint:wsgi
+web: gunicorn editorspoint.wsgi
